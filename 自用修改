@@ -1,0 +1,92 @@
+[custom]
+[custom]
+;设置规则标志位
+ruleset=🎯 自用直连规则,https://raw.githubusercontent.com/a1257636709/Guize/refs/heads/main/%E8%BD%AF%E8%B7%AF%E7%94%B1%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%9B%B4%E8%BF%9E%E8%A7%84%E5%88%9901
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
+ruleset=🛑 全球拦截,https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf
+ruleset=🛡️ 隐私防护,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
+ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=🇬 谷歌服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
+ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.list
+ruleset=📲 Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
+ruleset=💬 APPLEAI,https://raw.githubusercontent.com/HiMyCocoo/Loon/refs/heads/main/Apple%20AI.lsr
+ruleset=💬 ChatGPT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
+ruleset=🚀 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
+ruleset=🍎 苹果服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+ruleset=Ⓜ️ Copilot,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.list
+ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
+ruleset=📹 YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+ruleset=🍘️ 小米服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/XiaoMi/XiaoMi.list
+ruleset=🎶 TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
+ruleset=🎥 Netflix,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
+ruleset=🎥 Disney+,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
+ruleset=🎻 Spotify,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
+ruleset=📺 Bahamut,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
+ruleset=🎶 网易音乐,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEaseMusic/NetEaseMusic.list
+ruleset=🌍 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
+ruleset=🎮 Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
+ruleset=📀 PT站点,https://raw.githubusercontent.com/a1257636709/Guize/refs/heads/main/%E8%BD%AF%E8%B7%AF%E7%94%B1%E5%B0%8F%E7%8C%AB%E5%92%AAPT%E7%AB%99%E7%82%B9%E8%A7%84%E5%88%9902
+ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
+ruleset=🎯 全球直连,[]GEOIP,LAN,no-resolve
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Steam_CDN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Proxy.list
+ruleset=🐟 漏网之鱼,[]FINAL
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=🚀 节点选择`select`.*
+custom_proxy_group=🚀 GitHub`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📲 Telegram`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=💬 APPLEAI`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=💬 ChatGPT`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=Ⓜ️ Copilot`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎶 TikTok`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📹 YouTube`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎥 Netflix`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎥 Disney+`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎻 Spotify`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📺 Bahamut`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎶 网易音乐`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🌍 国内媒体`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📢 谷歌FCM`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🇬 谷歌服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🍎 苹果服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=Ⓜ️ 微软服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🍘️ 小米服务`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎮 游戏平台`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎮 Steam`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=📀 PT站点`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`.*
+custom_proxy_group=🎯 自用直连规则`select`[]DIRECT
+custom_proxy_group=🎯 全球直连`select`[]DIRECT
+custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
+custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
+custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT
+;设置分组标志位
+
+enable_rule_generator=true
+overwrite_original_rules=true
