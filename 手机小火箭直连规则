@@ -1,0 +1,9 @@
+[Rule]
+# 本文件是手机小火箭优先直连规则集需要更新的域名直接在本文件更新后小火箭刷新即可
+# 百度贴吧
+DOMAIN-SUFFIX,als.baidu.com
+DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,afd.baidu.com
+DOMAIN-SUFFIX,info.tuisong.baidu.com
+DOMAIN-SUFFIX,nsclick.baidu.com

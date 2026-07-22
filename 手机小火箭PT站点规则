@@ -1,0 +1,54 @@
+[Rule]
+# 本文件是手机小火箭PT站点规则集需要更新的域名直接在本文件更新后小火箭刷新即可
+
+# 织梦
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,zmpt.club
+# 馒头
+DOMAIN-SUFFIX,m-team.cc
+# 猫站
+DOMAIN-SUFFIX,pterclub.net
+# UB
+DOMAIN-SUFFIX,ubits.club
+# 麒麟
+DOMAIN-SUFFIX,hdkyl.in
+# 末日
+DOMAIN-SUFFIX,agsvpt.com
+# 柠檬
+DOMAIN-SUFFIX,hdvideo.one
+# 红叶
+DOMAIN-SUFFIX,leaves.red
+# 红豆饭
+DOMAIN-SUFFIX,hdfans.org
+# 韩站
+DOMAIN-SUFFIX,ultrahd.net
+# 学校
+DOMAIN-SUFFIX,btschool.club
+# 家园
+DOMAIN-SUFFIX,hdhome.org
+# 声魂
+DOMAIN-SUFFIX,soulvoice.club
+# 海棠
+DOMAIN-SUFFIX,htpt.cc
+# 憨憨
+DOMAIN-SUFFIX,hhanclub.net
+# 观众
+DOMAIN-SUFFIX,audiences.me
+# 全景声
+DOMAIN-SUFFIX,hdatmos.club
+# 杜比
+DOMAIN-SUFFIX,hddolby.com
+# ptt
+DOMAIN-SUFFIX,pttime.org
+# 高清时间
+DOMAIN-SUFFIX,hdtime.org
+# 大青虫
+DOMAIN-SUFFIX,cyanbug.net
+# pt分享
+DOMAIN-SUFFIX,pt.itzmx.com
+# 好大
+DOMAIN-SUFFIX,hdarea.club
+# 朱雀
+DOMAIN-SUFFIX,zhuque.in
+# 财神
+DOMAIN-SUFFIX,cspt.top

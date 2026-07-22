@@ -1,0 +1,9 @@
+[Rule]
+# 本文件是软路由小猫咪优先直连规则   注意注意！！！文本件更新需要更新名称然后手动同步给小猫咪（自用修改） ！！不然小猫咪不更新
+# 百度贴吧
+DOMAIN-SUFFIX,als.baidu.com
+DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,afd.baidu.com
+DOMAIN-SUFFIX,info.tuisong.baidu.com
+DOMAIN-SUFFIX,nsclick.baidu.com
